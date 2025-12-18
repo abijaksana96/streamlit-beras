@@ -19,8 +19,6 @@ Dashboard interaktif untuk menganalisis dan memprediksi harga beras premium di P
 - [Dataset](#dataset)
 - [Model LSTM](#model-lstm)
 - [Teknologi yang Digunakan](#teknologi-yang-digunakan)
-- [Screenshot](#screenshot)
-- [Kontribusi](#kontribusi)
 - [Lisensi](#lisensi)
 
 ## 📖 Tentang Proyek
@@ -212,49 +210,6 @@ Model LSTM yang digunakan memiliki arsitektur sebagai berikut:
 | Seaborn | 0.13.2 | Visualisasi statistik |
 | Scikit-learn | 1.7.1 | Machine learning tools |
 
-## 📸 Screenshot
-
-### Beranda
-Halaman utama menampilkan ringkasan statistik dan preview data terbaru.
-
-### Analisis Data
-Halaman analisis dengan grafik trend harga, distribusi, dan statistik deskriptif.
-
-### Model Prediksi
-Halaman untuk menjalankan prediksi dan melihat hasil perbandingan.
-
-### Evaluasi Model
-Halaman evaluasi dengan metrik performa dan analisis residual.
-
-## 🤝 Kontribusi
-
-Kontribusi sangat diterima! Berikut langkah-langkah untuk berkontribusi:
-
-1. Fork repository ini
-2. Buat branch fitur baru (`git checkout -b fitur/FiturBaru`)
-3. Commit perubahan (`git commit -m 'Menambahkan fitur baru'`)
-4. Push ke branch (`git push origin fitur/FiturBaru`)
-5. Buat Pull Request
-
-### Panduan Kontribusi
-
-- Pastikan kode mengikuti style yang konsisten
-- Tambahkan komentar untuk kode yang kompleks
-- Update dokumentasi jika diperlukan
-- Test perubahan sebelum submit PR
-
 ## 📄 Lisensi
 
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
-## 📞 Kontak
-
-Jika ada pertanyaan atau saran, silakan hubungi:
-
-- **GitHub**: [@abijaksana96](https://github.com/abijaksana96)
-
----
-
-<p align="center">
-  Dibuat dengan ❤️ menggunakan Streamlit
-</p>
