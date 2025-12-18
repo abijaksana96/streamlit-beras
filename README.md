@@ -64,6 +64,7 @@ Beras merupakan komoditas pangan utama di Indonesia. Fluktuasi harga beras, khus
 ```
 streamlit-beras/
 ├── dashboard.py              # Aplikasi Streamlit utama
+├── notebook2.ipynb           # Notebook untuk training model & EDA
 ├── Beras Premium Train.csv   # Dataset harga beras
 ├── lstm_model.h5             # Model LSTM yang sudah dilatih
 ├── requirements.txt          # Daftar dependensi Python
